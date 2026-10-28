@@ -1,0 +1,31 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64" fill="none">
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="64" y2="64" gradientUnits="userSpaceOnUse">
+      <stop offset="0%" stop-color="#4F46E5" />
+      <stop offset="100%" stop-color="#7C3AED" />
+    </linearGradient>
+  </defs>
+  <rect width="64" height="64" rx="16" fill="url(#bg)" />
+  <path
+    d="M19 14C16.7909 14 15 15.7909 15 18V46C15 48.2091 16.7909 50 19 50H41C43.2091 50 45 48.2091 45 46V24L35 14H19Z"
+    fill="#FFFFFF"
+    fill-opacity="0.96"
+  />
+  <path
+    d="M35 14V21C35 22.6569 36.3431 24 38 24H45L35 14Z"
+    fill="#C7D2FE"
+  />
+  <circle cx="23.5" cy="24.5" r="3" fill="#4F46E5" />
+  <rect x="29" y="23" width="9" height="3" rx="1.5" fill="#4F46E5" />
+  <rect x="20.5" y="32" width="19" height="2.8" rx="1.4" fill="#6366F1" />
+  <rect x="20.5" y="37.5" width="15" height="2.8" rx="1.4" fill="#818CF8" />
+  <rect x="20.5" y="43" width="11" height="2.8" rx="1.4" fill="#A5B4FC" />
+  <circle cx="46" cy="44" r="9" fill="#10B981" stroke="#4F46E5" stroke-width="2" />
+  <path
+    d="M42.5 44.2L44.8 46.5L49.8 41.5"
+    stroke="#FFFFFF"
+    stroke-width="2.4"
+    stroke-linecap="round"
+    stroke-linejoin="round"
+  />
+</svg>
